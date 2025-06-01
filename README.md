@@ -1,2 +1,23 @@
-# santander-bootcamp-excel_IA
-Santander bootcamp Excel com Inteligência Artificial
+![BOOTCAMP SANTANDER](/images/logo_bootcamp.jpg)
+
+### Santander Bootcamp Excel com Inteligência Artificial
+---
+[![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[![Licença](https://img.shields.io/badge/licença-MIT-blue)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/LICENSE)
+
+Bootcamp desenvolvido em parceria com a Digital Innovation One, com foco no Excel utilizando ferramentas de inteligência artificial.
+</br>
+
+---
+#### Estrutura do Bootcamp
+
+Subdividido em 3 tópicos:
+
+1. Dominando Tabelas com Excel
+2. Trabalhando com fórmulas no Excel
+3. Criando Dashboards com Excel
+
+---
+#### Projetos desenvolvidos
+
+- [Criando uma ferramenta de controle de investimentos com Excel](/projeto_investimentos/README.md)
