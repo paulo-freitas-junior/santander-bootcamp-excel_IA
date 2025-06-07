@@ -21,3 +21,4 @@ Subdividido em 3 tópicos:
 #### Projetos desenvolvidos
 
 - [Criando uma ferramenta de controle de investimentos com Excel](/projeto_investimentos/README.md)
+- [Criando um Organizador de Declaração de Imposto de Renda](/organizador_declaracoes_IR/README.md)
