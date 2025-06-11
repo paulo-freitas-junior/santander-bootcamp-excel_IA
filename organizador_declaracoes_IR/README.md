@@ -1,1 +1,0 @@
-### Organizador de Declarações do Imposto de Renda
