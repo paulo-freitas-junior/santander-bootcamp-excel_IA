@@ -1,0 +1,44 @@
+1º passo
+// SOLICITANDO PARA CRIAR AS PRIMEIRAS TABELAS
+----------------------------------------------
+
+[Ação]
+create a script to create a table in MySql
+
+[Contexto]
+- The first table is a table to save a pokemon tcg cards
+- The second tabe is a table to sabe collection set
+
+connect to tables with FOREIGN KEY
+
+[Informação]
+
+first table: tbl_cards
+- id
+- hp
+- name
+- type
+- stage
+- info
+- attack
+- damage
+- weak
+- resis.
+- retreat
+- cardNumberInCollection
+
+second table: tbl_collections
+- id
+- collectionSetName
+- releaseDate
+- totalCardsInCollection
+
+
+2º passo
+// SOLICITANDO PARA CRIAR DUAS TABELAS BASEANDO-SE NAS BOAS PRÁTICAS DE BD RELACIONAIS
+--------------------------------------------------------------------------------------
+
+[Ação]
+create another tables and link to tbl_cards
+- create a table to separates type
+- create a table to saparates stage

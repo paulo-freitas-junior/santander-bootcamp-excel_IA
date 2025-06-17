@@ -18,7 +18,18 @@ Subdividido em 3 tópicos:
 3. Criando Dashboards com Excel
 
 ---
+#### Tecnologias Utilizadas
+
+- Microsoft Excel
+- Copilot
+- Visual Studio Code (extensão MySQL Shell for VS CODE)
+- Banco de dados MySQL (pré-instalado)
+- Banco de dados PostgreSQL
+- Linguagem SQL
+
+---
 #### Projetos desenvolvidos
 
 - [Criando uma ferramenta de controle de investimentos com Excel](/projeto_investimentos/README.md)
 - [Criando um Organizador de Declaração de Imposto de Renda](/organizador_declaracoes_IR/README.md)
+- [Criando um Dashboard de Vendas do Xbox com Excel](/projeto_dashboard_vendas_excel/README.md)

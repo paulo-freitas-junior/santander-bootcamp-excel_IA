@@ -1,0 +1,25 @@
+// Criação das seeds (sementes) para popular as TABELAS
+
+
+1º PROMPT - inserção das primeiras sementes em todas as tabelas
+---------
+[Ação]
+- create a initial seed to all tables with tcg pokemon. Generate the insert scripts.
+
+
+2º PROMPT - geração de 20 registros dentro da tabela cards
+---------
+[Ação]
+- generate 20 insert records to tbl_cards
+
+
+3º PROMPT - geração de mais 30 registros na tabela cards
+---------
+[Ação]
+- generate more 30 insert records to tbl_cards
+
+
+4º PROMPT - geraão de mais 30 registros na tabela cards
+---------
+[Ação]
+- generate more 30 insert records to tbl_cards
