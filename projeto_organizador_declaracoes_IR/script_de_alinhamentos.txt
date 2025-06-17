@@ -29,3 +29,4 @@ Sub MoverIconeParaPosicao()
     ' Se nÃ£o encontrar
     MsgBox "Ãcone '" & nomeIconeProcurado & "' nÃ£o encontrado.", vbExclamation
 End Sub
+
