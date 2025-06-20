@@ -10,3 +10,4 @@
 3º Passo - Dentro do contexto apresentado, preparar a criação dos prompts
 4º Passo - Criação das tabelas necessárias baseado nos prompts elaborados
 5º Passo - Criar os registros das tabelas basenando-se nos prompts elaborados
+6º Passo - Criar consultas SQL utilizando o COPILOT conforme os dados criados

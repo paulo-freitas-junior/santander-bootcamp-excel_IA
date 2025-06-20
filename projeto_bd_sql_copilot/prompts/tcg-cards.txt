@@ -3,7 +3,7 @@
 ----------------------------------------------
 
 [Ação]
-create a script to create a table in MySql
+create a script to create a table in PostgreSQL
 
 [Contexto]
 - The first table is a table to save a pokemon tcg cards

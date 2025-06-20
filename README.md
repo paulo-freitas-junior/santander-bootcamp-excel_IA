@@ -22,8 +22,7 @@ Subdividido em 3 tópicos:
 
 - Microsoft Excel
 - Copilot
-- Visual Studio Code (extensão MySQL Shell for VS CODE)
-- Banco de dados MySQL (pré-instalado)
+- Visual Studio Code
 - Banco de dados PostgreSQL
 - Linguagem SQL
 
@@ -32,4 +31,5 @@ Subdividido em 3 tópicos:
 
 - [Criando uma ferramenta de controle de investimentos com Excel](/projeto_investimentos/README.md)
 - [Criando um Organizador de Declaração de Imposto de Renda](/organizador_declaracoes_IR/README.md)
-- [Criando um Dashboard de Vendas do Xbox com Excel](/projeto_dashboard_vendas_excel/README.md)
+- [Criando Base de Dados em SQL e Consultas usando COPILOT](/projeto_bd_sql_copilot/README.md)
+- [Criando um Dashboard de Vendas do Xbox com Excel](/projeto_dashboard_vendas_xbox/README.md)

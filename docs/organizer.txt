@@ -1,0 +1,34 @@
+1. Métodos de Organização
+----------
+
+A- Assets (recursos: imagens, vídeos, imagens, etc)
+B- Bases de dados (dados para gerar o dashboard principal ou outras medidas)
+C- Cálculos (meio de campo que processa dados para transformar em informações)
+D- Dashboard ( Painel Visual)
+E- Extras
+
+2. Entendendo a base de dados
+----------
+Visualizar e entender os dados existentes para que se possa transformar em informação
+
+3. Transformando Dados em informações
+----------
+Informação: É uma perguntada de negócio respondida através de alguma análise de dado específico
+
+4. A importância do Data View
+----------
+
+5. Gráficos dinâmicos e filtros visuais
+----------
+
+6. Organização e Estilizaçã da Área de Dashboard
+----------
+
+7. Trabalhando com Big Numbers
+----------
+
+8. Info Context
+----------
+
+9. Toques Finais
+----------

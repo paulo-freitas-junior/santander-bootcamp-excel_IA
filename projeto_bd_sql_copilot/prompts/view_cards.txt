@@ -1,0 +1,9 @@
+// Criando consultas em SQL usando COPILOT
+
+1º PROMPT - Criar uma tabela view baseando-se no banco de dados criado 
+----------
+Baseando-se no modelo relacional criado pelo arquivo 001_create_table.sql, Traga todas as informações da tbl_cards, subistituindo pelos nomes das chaves estrangeiras. Salve isso em uma tabela view para o banco de dados postgreSQL
+
+2º PROMPT - Fazer uma consulta no banco de dados
+----------
+Dado a view 'vw_cards_detahado' faça um select, mas não faça o select *, faça chamando campo por campo
