@@ -2,7 +2,7 @@
 
 ### Santander Bootcamp Excel com Inteligência Artificial
 ---
-[![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
+[![Status](https://img.shields.io/badge/status-concluído-green)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO)
 [![Licença](https://img.shields.io/badge/licença-MIT-blue)](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/main/LICENSE)
 
 Bootcamp desenvolvido em parceria com a Digital Innovation One, com foco no Excel utilizando ferramentas de inteligência artificial.
